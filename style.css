@@ -1,4 +1,250 @@
+body{
+    display: flex;
+}
+
 .image{
     width: 100px;
     height: 100px;
+    margin: 10px;
+}
+
+
+#a{
+    margin-top: 20%;
+}
+
+#b{
+    margin-top: 15%;
+}
+
+#c{
+    margin-top: 25%;
+}
+
+#d{
+    margin-top: 18%;
+}
+
+#e{
+    margin-top: 28%;
+}
+
+#f{
+    margin-top: 32%;
+}
+
+#g{
+    margin-top: 20%;
+}
+
+#h{
+    margin-top: 25%;
+}
+
+#i{
+    margin-top: 18%;
+}
+
+#j{
+    margin-top: 18%;
+}
+
+#k{
+    margin-top: 18%;
+}
+
+#l{
+    margin-top: 18%;
+}
+
+#m{
+    margin-top: 18%;
+}
+
+#n{
+    margin-top: 18%;
+}
+
+#o{
+    margin-top: 18%;
+}
+
+#p{
+    margin-top: 18%;
+}
+
+#q{
+    margin-top: 15%;
+}
+
+#r{
+    margin-top: 10%;
+}
+
+#s{
+    margin-top: 12%;
+}
+
+#t{
+    margin-top: 15%;
+}
+
+#u{
+    margin-top: 25%;
+}
+
+#v{
+    margin-top: 20%;
+}
+
+#w{
+    margin-top: 28%;
+}
+
+#x{
+    margin-top: 30%;
+}
+
+#y{
+    margin-top: 26%;
+}
+
+#z{
+    margin-top: 20%;
+}
+
+#aa{
+    margin-top: 10%;
+}
+
+#bb{
+    margin-top: 13%;
+}
+
+#cc{
+    margin-top: 9%;
+}
+
+#dd{
+    margin-top: 20%;
+}
+
+#ee{
+    margin-top: 24%;
+}
+
+#ff{
+    margin-top: 13%;
+}
+
+#gg{
+    margin-top: 14%;
+}
+
+#hh{
+    margin-top: 21%;
+}
+
+#ii{
+    margin-top: 25%;
+}
+
+#jj{
+    margin-top: 23%;
+}
+
+#kk{
+    margin-top: 20%;
+}
+
+#ll{
+    margin-top: 23%;
+}
+
+#mm{
+    margin-top: 25%;
+}
+
+#nn{
+    margin-top: 22%;
+}
+
+#oo{
+    margin-top: 12%;
+}
+
+#pp{
+    margin-top: 18%;
+}
+
+#qq{
+    margin-top: 18%;
+}
+
+#rr{
+    margin-top: 18%;
+}
+
+#ss{
+    margin-top: 18%;
+}
+
+#tt{
+    margin-top: 18%;
+}
+
+#uu{
+    margin-top: 18%;
+}
+
+#vv{
+    margin-top: 18%;
+}
+
+#ww{
+    margin-top: 18%;
+}
+
+#xx{
+    margin-top: 18%;
+}
+
+#yy{
+    margin-top: 18%;
+}
+
+#zz{
+    margin-top: 18%;
+}
+
+#aaa{
+    margin-top: 18%;
+}
+
+#bbb{
+    margin-top: 18%;
+}
+
+#ccc{
+    margin-top: 12%;
+}
+
+#ddd{
+    margin-top: 14%;
+}
+
+#eee{
+    margin-top: 16%;
+}
+
+#fff{
+    margin-top: 22%;
+}
+
+#ggg{
+    margin-top: 21%;
+}
+
+#hhh{
+    margin-top: 18%;
 }
