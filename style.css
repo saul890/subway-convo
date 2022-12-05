@@ -1,5 +1,6 @@
 body{
     display: flex;
+    background-color: #F4BFDB;
 }
 
 .image{
@@ -18,7 +19,7 @@ body{
 }
 
 #c{
-    margin-top: 25%;
+    margin-top: 10%;
 }
 
 #d{
@@ -26,15 +27,15 @@ body{
 }
 
 #e{
-    margin-top: 28%;
+    margin-top: 25%;
 }
 
 #f{
-    margin-top: 32%;
+    margin-top: 26%;
 }
 
 #g{
-    margin-top: 20%;
+    margin-top: 32%;
 }
 
 #h{
