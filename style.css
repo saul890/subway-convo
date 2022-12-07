@@ -3,6 +3,10 @@ body{
     background-color: #F4BFDB;
 }
 
+#aud{
+    position: absolute;
+}
+
 .image{
     width: 100px;
     height: 100px;
@@ -249,3 +253,24 @@ body{
 #hhh{
     margin-top: 18%;
 }
+
+
+#aud{
+    width: 300px;
+    top: 90vh;
+    left: 50%;
+    margin-left: -150px;
+    position: fixed;
+}
+
+audio::-webkit-media-controls-enclosure{
+    border-radius: 12px;
+    border: solid 1px #F4BFDB;
+ }
+ audio::-webkit-media-controls-panel, video::-webkit-media-controls-panel {
+   background-color: #F4BFDB; 
+ }
+ audio::-webkit-media-controls-volume-control-container{
+ display: none !important;
+ } 
+  
